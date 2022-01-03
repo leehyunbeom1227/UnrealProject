@@ -1,0 +1,5 @@
+---,Key,Name,Overlap,ItemType,IconTexture,Mesh,Desc,OptionArray
+BF대검,1,BF대검,None,Weapon,Texture2D'/Game/UI/T_UI_Weapon_Sword.T_UI_Weapon_Sword',StaticMesh'/Game/Item/BFSword.BFSword',BF대검,
+칠흑의양날도끼,2,칠흑의양날도끼,None,Weapon,Texture2D'/Game/UI/T_UI_Weapon_Axe.T_UI_Weapon_Axe',StaticMesh'/Game/Item/Axe.Axe',강력한 도끼,
+HP포션,3,HP포션,Overlap,Potion,Texture2D'/Game/UI/T_UI_Icon_PotHealth01.T_UI_Icon_PotHealth01',StaticMesh'/Game/Item/ItemBox.ItemBox',체력회복물약,
+MP포션,4,MP포션,Overlap,Potion,Texture2D'/Game/UI/T_UI_Icon_PotMana01.T_UI_Icon_PotMana01',StaticMesh'/Game/Item/ItemBox.ItemBox',마나회복물약,
